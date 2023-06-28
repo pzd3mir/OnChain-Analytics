@@ -33,4 +33,7 @@ Data includes a list of Collection Names of all incoming ERC-721 + ERC-1155 Toke
 * Binance API Key
 * Etherscan API Key
 
+---
 
+#### Includes:
+* Pickled Data from 15.06.2022
